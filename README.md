@@ -14,7 +14,7 @@ Educational Focus & Skill Development:
 
 Competition & Challenge:
 - Teams are given a specific problem: to develop a business plan for an app in a defined industry (e.g., agriculture or fishing) and geographic region (e.g., Chesapeake), with set capital constraints across three phases.    
-- The core challenge is to design effective prompts that guide an LLM to produce a high-quality, realistic business plan. Teams must also provide their prompt sequences and a rationale for their chosen LLM after testing at least five models.    
+- The core challenge is to design effective prompts that guide an LLM to produce a high-quality, implementable business plan. Teams must also provide their prompt sequences and a rationale for their chosen LLM after testing at least five models.    
 - While LLMs generate the plan, teams can only refine it through follow-up prompts, not direct edits, emphasizing the skill of AI guidance.    
 - The competition culminates in teams preparing and delivering a short (3-minute max) pitch for their startup idea and business plan, also using an LLM for pitch creation.    
 
