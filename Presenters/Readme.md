@@ -1,4 +1,4 @@
-Here's some advice for your presenters (trainers) for the StartathonAI, focusing on the big picture and their coordination:
+
 
 **I. Focusing Presenters on the Big Picture (The "Why" and "How"):**
 
