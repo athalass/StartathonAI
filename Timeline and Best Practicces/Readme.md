@@ -58,7 +58,7 @@ Activities:
     |       |--- Rules, Rubric, Discord, Submission Process Explained
     |       |--- Team Formation Facilitated
     |
-    |--- DAYS 2 & 3: Competition & Coaching
+    |--- DAYS 2 & 3 (& 4): Competition & Coaching
     |       |--- Discord Management (Simple, Supportive, Clear Processes for Issues)
     |       |--- Daily Coaching Check-ins (Diverse Experts, Encourage Attendance)
     |       |--- Frequent Communication (Reminders, Links, Updates)
@@ -74,7 +74,7 @@ Activities:
 
     |
     |--- [Immediately Post-Submission, Pre-Pitch] A. Judging Process
-    |       |--- Allow Judges 2+ Full Days for Review
+    |       |--- Allow Judges 2+ Full Days for Review (If you started on a Friday then submission is either Tuesday or Wednesday. Judges should aim for Friday deliberation) 
     |       |--- Provide Clear Access to Materials & Digital Scoring Sheets
     |       |--- Hold Judges' Deliberation Call (If Needed)
     |
