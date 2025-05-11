@@ -1,5 +1,7 @@
 StartathonAI: Visual Organizer's TimelineThis timeline provides a visual overview of the key phases and activities for organizing the StartathonAI.Phase 1: Pre-Event Runway (Starts 6+ Months Before Event)Timeline: T-6 Months & Earlier ----------------------------------------------------->
+
 Activities:
+
     |
     |--- [ASAP] A. Sponsorship & Prize Acquisition
     |       |--- Initiate Outreach (Financial & In-Kind)
@@ -20,8 +22,11 @@ Activities:
             |       |--- Emphasize Market Analysis -> Value Proposition Loop
             |--- Prompt Engineering Training (Monthly Seminars)
                     |--- Cover Diverse Techniques (CoT, ToT, CoF, Few-shot, Role-playing)
+                    
 Phase 2: Immediate Pre-Event (1-2 Months Before Event)Timeline: T-2 Months to T-1 Month ------------------------------------------------->
+
 Activities:
+
     |
     |--- [1-2 Months Out] A. Finalize Logistics & Event Schedule
     |       |--- Confirm Day 1 Schedule (Aim for Fri/Sat Start)
@@ -42,8 +47,11 @@ Activities:
             |--- Regular Updates, Reminders, Engaging Content
             |--- Introduce Organizers, Share Sponsor News, Key Dates
             |--- Share Anonymized Positive Feedback/Inquiries (Demonstrate Value)
+            
 Phase 3: Event Execution (The 4 Days of the Startathon)Timeline: Event Days 1-4 ----------------------------------------------------------->
+
 Activities:
+
     |
     |--- DAY 1: Training & Launch
     |       |--- Concise Training (<4 Hours)
@@ -59,8 +67,11 @@ Activities:
             |--- Submission Deadline Strictly Enforced
             |--- Pitch Event Scheduled (Allowing Judge Review Time)
             |--- Pitch Format Adhered To (e.g., 3 min + 10 min Q&A)
+            
 Phase 4: Post-Event, Evaluation & Future Seeding (1-2 Weeks Post-Event & Ongoing)Timeline: Event End + 1-2 Weeks & Ongoing ------------------------------------------>
+
 Activities:
+
     |
     |--- [Immediately Post-Submission, Pre-Pitch] A. Judging Process
     |       |--- Allow Judges 2+ Full Days for Review
@@ -88,4 +99,5 @@ Activities:
             |--- Assess Team Performance, Budget, Technology
             |--- Document "Lessons Learned & Actionable Recommendations"
             |--- Plan for Contingencies & Continuous Improvement
+            
 This visual timeline should help in planning and tracking the various stages and activities involved in making StartathonAI a success!
