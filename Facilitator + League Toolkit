@@ -1,0 +1,39 @@
+🎓 Startathon AI: Facilitator & League Toolkit
+Empowering the Next Generation of AI-First Founders
+Welcome to the Startathon AI League implementation guide. This toolkit is designed to help academic leaders, department chairs, and student organizers launch a high-impact AI entrepreneurship competition at their institution with minimal overhead.
+📌 Overview
+Startathon AI is not just a hackathon; it is a validated pedagogical framework that teaches students to use Large Language Models (LLMs) as co-founders. By participating in the Maryland Community College AI League (MCCAIL), your institution joins a statewide network focused on "Series A Readiness" and workforce innovation.
+________________________________________
+🛠 What’s in the Box?
+This repository is organized to provide every asset needed for a successful 15-week semester integration or a 3-day intensive event.
+Component	Purpose
+Curriculum	Slide decks on Prompt Engineering, LLM selection, and Business Fundamentals.
+Operations	Week-by-week checklists and logistical run-sheets.
+Communications	Server templates and bot configurations for student collaboration.
+Marketing	Brand assets, flyers, and social media templates for recruitment.
+Evaluation	Standardized rubrics focusing on the "Three I’s" (Idea, Implementation, Impact).
+Student Success	Prompting "cookbooks," industry data, and thought-process templates.
+________________________________________
+🚀 The 4-Step Implementation Path
+1. Institutional Alignment (Weeks 1-2)
+•	Goal: Identify a Faculty Lead and secure "Capstone" or "Lab" credit status for participants.
+•	Key Asset: Partnership Proposal Template.
+2. Recruitment & Training (Weeks 3-8)
+•	Goal: Form multidisciplinary teams (Code, Business, Design).
+•	Activity: Deploy the weekly masterclasses found in the /Presenters folder.
+•	The "No-Edit" Rule: Introduce the core constraint: Business plans must be generated and refined via prompts, not manual typing.
+3. Local Campus Qualifier (Week 12)
+•	Goal: Crown a local champion to represent your college in the State Finals.
+•	Activity: Use the Judging Rubric to ensure parity with the statewide league standards.
+4. The Maryland AI Cup (Week 15)
+•	Goal: The top 2 teams from your campus advance to the Annapolis-based finale to pitch to VCs and state leaders.
+________________________________________
+⚖️ Governance & Rules
+To maintain the integrity of the league, all facilitators must enforce the Startathon AI "Prompt-Only" Protocol:
+1.	Teams must test at least 5 different LLMs (e.g., GPT-4, Claude 3.5, Gemini Pro).
+2.	All business plan refinements must be documented in a Prompt Sequence Log.
+3.	Direct manual editing of the AI output is prohibited (emphasizing the skill of AI Orchestration).
+________________________________________
+📞 Support & Community
+As a Facilitator, you are not alone.
+•	Mentor Network: Access the shared pool of GDG (Google Developer Group) mentors.
