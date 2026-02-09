@@ -1,0 +1,22 @@
+Questionnaire:
+
+The Role
+•	Primary Identity: "Which role best describes you?" (Developer/Coder, Business/Strategy, Design/UX, or Domain Expert, other).
+•	Secondary Skills: "Select 2 other areas you are comfortable contributing to." (Developer/Coder, Business/Strategy, Design/UX, or Domain Expert, other)
+•	AI Comfort Level: "On a scale of 1-5, how experienced are you with Prompt Engineering or LLM orchestration?"
+
+The Topic
+•	Vertical Interest: "Which industries excite you most? (e.g., Sustainability, FinTech, Ecology, Agriculture)."
+•	Problem Statement (Open Ended): "In one sentence, what is a problem you've always wanted to solve with AI?"
+
+Work Style
+•	Operating Speed: "Do you prefer to 'Move fast and break things' or 'Measure twice, cut once'?"
+•	Social Energy: "Are you a natural 'Pitcher/Presenter' or do you prefer 'Behind-the-scenes building'?"
+•	Commitment Level: "Are you here primarily to: Learn/Network, Win the Competition, or Start a real company?" (Mixing someone who wants a "real company" with someone just "learning" is a recipe for conflict).
+
+
+The Prompt
+"Act as a veteran Startup Incubator Director. I will provide a list of 50 participants with their skills, interests, and working styles.
+Goal: Form balanced teams with 2 to 5 members. Constraints: > 1. Each team MUST have 1 Hacker, 1 Hustler, and 1 Hipster. 2. Each team MUST have at least one person with 'High' AI experience. 3. Group people with similar 'Vertical Interests' but differing 'Operating Speeds' to ensure healthy friction.
+Output the teams in a table, including a one-sentence 'Reason for Matching' for each group."
+
