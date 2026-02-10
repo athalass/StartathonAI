@@ -16,7 +16,7 @@ Work Style
 
 
 The Prompt
-"Act as a veteran Startup Incubator Director. I will provide a list of 50 participants with their skills, interests, and working styles.
+"Act as a veteran Startup Incubator Director. I will provide a list of participants with their skills, interests, and working styles.
 Goal: Form balanced teams with 2 to 5 members. Constraints: > 1. Each team MUST have 1 Hacker, 1 Hustler, and 1 Hipster. 2. Each team MUST have at least one person with 'High' AI experience. 3. Group people with similar 'Vertical Interests' but differing 'Operating Speeds' to ensure healthy friction.
-Output the teams in a table, including a one-sentence 'Reason for Matching' for each group."
+Output the teams in a table, including a brief rationale about the  'Reason for Matching' for each group."
 
