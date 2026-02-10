@@ -7,18 +7,18 @@ A)	Best Pitch (10%):
   ●	Presentation Skills: How engaging and professional is the team's presentation?
   ●	Q&A responses: How well did the team handle the judges' questions?
 
-B)	Most Creative Idea (10%):
+B)	Most Creative Idea (15%):
   ●	Novelty: How unique and innovative is the startup idea?
   ●	Market Potential: Does the idea address a real need or opportunity in the market?
   ●	Wow Factor: How exciting and engaging is the overall concept?
 
-C)	Most Implementable Business Idea (10%):
+C)	Most Implementable Business Idea (15%):
   ●	Feasibility: How realistic and practical is the proposed business model?
   ●	Operational Plan: Does the business plan outline a clear and logical plan for operations?
   ●	Resource Allocation: Does the plan demonstrate a realistic understanding of the resources required?
   ●	Risk Assessment: Does the plan identify and address potential risks?
 
-D)	Best Business Plan (20%):
+D)	Best Business Plan (30%):
   ●	Executive Summary: Is the summary clear, concise, and compelling?
   ●	Market Analysis: Is the market research thorough and accurate?
   ●	Competitive Analysis: Does the plan identify and analyze key competitors?
@@ -36,9 +36,7 @@ E)	Best Prompt (30%):
   ●	Robustness: How well does the prompt perform across multiple executions or slight variations in input?
   ●	Instruction following: How well did the LLM follow the instructions of the prompt?
 
-F) LLM Model Selection (20%):
-  ●	Rationale for why you picked the LLM model you used to generate the business plan.
-  ●	Which model was second best and why?
-  ●	What are some limitations of the LLM models you used, and what features would you wish for?
-  ●	Present the iterations of your prompts and elaborate on the different techniques you used (Chain of Thought, Tree of Thought, Chain of Feedback, etc.) and why.
+
+  To get a base line, you may want to run the projects through an LLM using the same rubric. 
+  It is OK to modify the above rubric as long as it is communicated with the participating teams in advance.  
 
